@@ -1,0 +1,3 @@
+# ignore blog images
+blog/**/*.jpg
+blog/**/*.JPG
