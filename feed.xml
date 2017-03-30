@@ -5,10 +5,24 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2017-02-08T01:00:00+01:00</updated>
+  <updated>2017-03-30T02:00:00+02:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Endlich geht's los!</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2017/03/endlich-gehts-los/index.html"/>
+    <id>http://blog.url.com/blog/2017/03/endlich-gehts-los/index.html</id>
+    <published>2017-03-30T02:00:00+02:00</published>
+    <updated>2017-03-30T09:08:19+02:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Nach monatelanger Vorbereitung hiess es am Montag endlich: Motor starten und los :-). Im Tessin die letzte Nacht in der Komfortzone - Dampfnudeln mit Vanillesauce und Apfelmus (vielen Dank Mama Katja). Mit einem deftigen Frühstück im Magen fahren wir gestärkt in Richtung Abenteuer. Am Nachmittag etwas zu viel sightseeing in Venedig, so dass das wild Zelten am Abend spät und richtig wild wurde. Den ersten Zeltplatz - noch in Italien - mussten wir aufgeben, da in diesem Wald offenbar die Flüchtlingsrouten durchführen. Vom zweiten, noch geschlossenen, Zeltplatz wurden wir von einem Securitas verscheucht und kaum den dritten Zeltplatz auserkoren, schon wieder Taschenlampen und Stimmen - die slowenische Polizei. Dank Charme und Schweizer Pass durften wir bleiben.&lt;/p&gt;
+
+&lt;p&gt;Am Morgen gehts zügig weiter, Kroatiens wunderschöne und kurvenreiche Küstenstrasse lässt unsere Bikerherzen höher schlagen. Blauer Himmel, Sonne und schon fast sommerliche Temperaturen. Bananen-Icecream im Altstädtchen Zadar und frisch gepressten Orangensaft an der Küstenpromenade in Split. Das Zelten diese Nacht etwas weniger wild, auf einem Zeltplatz ausserhalb Zadars direkt am Meer. Janosch braucht ein neues Rücklicht, aber in der BMW-Garage in Rijeka war das Diagnosegerät kaputt und die Garage in Split hat andere Prioritäten. Immerhin bekommen wir den Tipp, die Batterie für 20 Minuten zu trennen um die Steuerung zurück zu setzen - gebracht hat's leider nichts. Bei einem wunderschönen, ja fast kitschig anmutenden Sonnenuntergang trinken wir ein Bierchen und kochen Spaghetti Cinque-Pi mit frischen Zutaten noch aus Italien.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Töff Service</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/02/service/index.html"/>
