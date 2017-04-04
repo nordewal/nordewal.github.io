@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog Name</title>
-  <subtitle>Blog subtitle</subtitle>
-  <id>http://blog.url.com/blog</id>
-  <link href="http://blog.url.com/blog"/>
-  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <title>Von der Welt</title>
+  <id>https://vonderwelt.ch/</id>
+  <link href="https://vonderwelt.ch/"/>
+  <link href="https://vonderwelt.ch/feed.xml" rel="self"/>
   <updated>2017-04-02T02:00:00+02:00</updated>
   <author>
-    <name>Blog Author</name>
+    <name>Janosch</name>
   </author>
   <entry>
     <title>Balkanroute</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2017/04/balkanroute/index.html"/>
-    <id>http://blog.url.com/blog/2017/04/balkanroute/index.html</id>
+    <link rel="alternate" href="https://vonderwelt.ch/blog/2017/04/balkanroute/index.html"/>
+    <id>https://vonderwelt.ch/blog/2017/04/balkanroute/index.html</id>
     <published>2017-04-02T02:00:00+02:00</published>
     <updated>2017-04-02T08:57:28+02:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>Janosch</name>
     </author>
     <content type="html">&lt;p&gt;Dubrovnik - noch etwas verschlafen zwar, aber ohne Zweifel ein Highlight unserer bisherigen Tour. Mächtig und stolz, die stark befestigte Stadt, die unter anderem '&lt;em&gt;Game of Thrones&lt;/em&gt;' als Kulisse diente. Ein starker Gegensatz zu den sehr armen Gebieten Montenegros und Albaniens, die wir danach durchquerten. Als wir am Grenzposten zwischen diesen beiden Ländern vergeblich auf einen schönen Stempel im Pass warteten - Stempel gibts nicht mehr: "&lt;em&gt;systema moderna!&lt;/em&gt;" - stürmte ein junger Mann aus der Grenzwache Richtung Albanien. Hinter ihm ein Dutzend Polizisten, zu Fuss oder im Auto mit quitschenden Reifen, der Mann ein von Interpol gesuchter Verbrecher. Die Verfolgung dauerte nicht lange, nach fünf Minuten war der Spuk vorbei und der Mann in Handschellen abgeführt.&lt;/p&gt;
 
@@ -27,12 +26,12 @@
   </entry>
   <entry>
     <title>Endlich geht's los!</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2017/03/endlich-gehts-los/index.html"/>
-    <id>http://blog.url.com/blog/2017/03/endlich-gehts-los/index.html</id>
+    <link rel="alternate" href="https://vonderwelt.ch/blog/2017/03/endlich-gehts-los/index.html"/>
+    <id>https://vonderwelt.ch/blog/2017/03/endlich-gehts-los/index.html</id>
     <published>2017-03-30T02:00:00+02:00</published>
     <updated>2017-04-01T23:02:58+02:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>Janosch</name>
     </author>
     <content type="html">&lt;p&gt;Nach monatelanger Vorbereitung hiess es am Montag endlich: Motor starten und los :-). Im Tessin die letzte Nacht in der Komfortzone - Dampfnudeln mit Vanillesauce und Apfelmus (vielen Dank Mama Katja). Mit einem deftigen Frühstück im Magen fahren wir gestärkt in Richtung Abenteuer. Am Nachmittag etwas zu viel sightseeing in Venedig, so dass das wild Zelten am Abend spät und richtig wild wurde. Den ersten Zeltplatz - noch in Italien - mussten wir aufgeben, da in diesem Wald offenbar die Flüchtlingsrouten durchführen. Vom zweiten, noch geschlossenen, Zeltplatz wurden wir von einem Securitas verscheucht und kaum den dritten Zeltplatz auserkoren, schon wieder Taschenlampen und Stimmen - die slowenische Polizei. Dank Charme und Schweizer Pass durften wir bleiben.&lt;/p&gt;
 
@@ -41,12 +40,12 @@
   </entry>
   <entry>
     <title>Töff Service</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2017/02/service/index.html"/>
-    <id>http://blog.url.com/blog/2017/02/service/index.html</id>
+    <link rel="alternate" href="https://vonderwelt.ch/blog/2017/02/service/index.html"/>
+    <id>https://vonderwelt.ch/blog/2017/02/service/index.html</id>
     <published>2017-02-08T01:00:00+01:00</published>
     <updated>2017-03-26T11:51:32+02:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>Janosch</name>
     </author>
     <content type="html">&lt;p&gt;Es sollte nur ein normaler Service werden, bis der Mech meinte, da kommt Öl raus wo nicht sollte. Das hiess der ganze Töff musste auseinander genommen werden (viele Arbeitsstunden) um einen 40.- Simmenring zu wechseln. Aber besser jetzt als irgendwo in der Wüste Usbekistans…  Nun sind unsere beiden Töffs flottgemacht und bald schon geht es los - wir freuen uns auf vielfältige Eindrücke und spannende Erlebnisse, die wir hin und wieder gerne auf diesem Blog mit Euch teilen!
 Janosch &amp;amp; Günter&lt;/p&gt;
@@ -54,12 +53,12 @@ Janosch &amp;amp; Günter&lt;/p&gt;
   </entry>
   <entry>
     <title>Namibia &amp; Botswana</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2016/09/namibia-botswana/index.html"/>
-    <id>http://blog.url.com/blog/2016/09/namibia-botswana/index.html</id>
+    <link rel="alternate" href="https://vonderwelt.ch/blog/2016/09/namibia-botswana/index.html"/>
+    <id>https://vonderwelt.ch/blog/2016/09/namibia-botswana/index.html</id>
     <published>2016-09-28T02:00:00+02:00</published>
     <updated>2017-03-10T17:03:18+01:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>Janosch</name>
     </author>
     <content type="html">&lt;p&gt;Herzlich Willkommen! Mit diesem ersten Artikel wird mein Blog &lt;em&gt;vonderwelt.ch&lt;/em&gt; ins Leben gerufen.
 In einem ersten kurzen Beitrag sind Bilder zu entdecken, die während unserer Reise durch Namibia &amp;amp; Botswana entstanden sind.&lt;/p&gt;
