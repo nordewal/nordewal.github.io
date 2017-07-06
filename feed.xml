@@ -4,16 +4,32 @@
   <id>https://vonderwelt.ch/</id>
   <link href="https://vonderwelt.ch/"/>
   <link href="https://vonderwelt.ch/feed.xml" rel="self"/>
-  <updated>2017-06-15T09:00:00+09:00</updated>
+  <updated>2017-06-19T17:00:00-07:00</updated>
   <author>
     <name>Janosch</name>
   </author>
   <entry>
+    <title>Seoul</title>
+    <link rel="alternate" href="https://vonderwelt.ch/blog/2017/06/seoul/index.html"/>
+    <id>https://vonderwelt.ch/blog/2017/06/seoul/index.html</id>
+    <published>2017-06-19T17:00:00-07:00</published>
+    <updated>2017-07-05T16:35:20-07:00</updated>
+    <author>
+      <name>Janosch</name>
+    </author>
+    <content type="html">&lt;p&gt;Ursprünglich sollte das Motorrad auch über die Strassen von Südkorea rollen, doch das Motorrad sieht Korea leider nur vom inneren einer Holzkiste (siehe letzter Beitrag). So hätte auch ich Seoul überspringen können, was ich aus 2 Gründen gelassen habe. Einerseits musste ich meinen zweiten Pass in der Botschaft abholen, um das Iran Visum "loszuwerden", um Probleme bei der Einreise in die USA zu vermeiden (danke Donald). Andererseits wollte ich unbedingt eine asiatische Grossstadt sehen.&lt;/p&gt;
+
+&lt;p&gt;Seoul ist als Berner unvorstellbar gross, was sich nicht zuletzt bei der Ansicht von oben herab offenbart. Während der Wanderung durch den Bukhansan Nationalpark sehe ich jedoch auch, die Vorbereitungen des Militärs bei einem allfälligen Einmarsch von Nordkorea: unzählige Fuchslöcher, Bunker und Helikopterlandeplätze sind zu bestaunen. Angesprochen darauf reagieren die Leute sehr gelassen und sehen Nordkorea nicht als wirkliche Bedrohung.&lt;/p&gt;
+
+&lt;p&gt;Die restlichen 3 Tage in Seoul verbringe ich mit gutem Essen und Erkundschaften von diversen Sehenswürdigkeiten. Erstaunlich ist, dass in jedem Quartier und Winkel unzählige Restaurants und Läden vorzufinden sind. Ich fühle mich wohl ein paar Tage in der Haut eines normalen Touristen zu verbringen, und freue mich sehr Mélanie in Paris für eine Woche zu sehen.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Am Ende Asiens</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/06/am-ende-asiens/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/06/am-ende-asiens/index.html</id>
-    <published>2017-06-15T09:00:00+09:00</published>
-    <updated>2017-06-20T10:46:30+09:00</updated>
+    <published>2017-06-14T17:00:00-07:00</published>
+    <updated>2017-06-19T18:46:30-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -28,8 +44,8 @@
     <title>In den Wäldern Sibiriens</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/06/in-den-waeldern-sibieriens/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/06/in-den-waeldern-sibieriens/index.html</id>
-    <published>2017-06-10T09:00:00+09:00</published>
-    <updated>2017-06-20T10:05:09+09:00</updated>
+    <published>2017-06-09T17:00:00-07:00</published>
+    <updated>2017-06-19T18:05:09-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -46,8 +62,8 @@
     <title>Mongolei - am Ziel der gemeinsamen Reise</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/mongolei-am-ziel-der-gemeinsamen-reise/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/05/mongolei-am-ziel-der-gemeinsamen-reise/index.html</id>
-    <published>2017-05-25T09:00:00+09:00</published>
-    <updated>2017-05-29T17:08:24+09:00</updated>
+    <published>2017-05-24T17:00:00-07:00</published>
+    <updated>2017-05-29T01:08:24-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -64,8 +80,8 @@
     <title>Altai-Gebirge</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/altai-gebirge/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/05/altai-gebirge/index.html</id>
-    <published>2017-05-20T09:00:00+09:00</published>
-    <updated>2017-05-29T12:28:21+09:00</updated>
+    <published>2017-05-19T17:00:00-07:00</published>
+    <updated>2017-05-28T20:28:21-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -82,8 +98,8 @@
     <title>Heimatgefühle</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/heimatgefuehle/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/05/heimatgefuehle/index.html</id>
-    <published>2017-05-13T09:00:00+09:00</published>
-    <updated>2017-05-18T21:06:37+09:00</updated>
+    <published>2017-05-12T17:00:00-07:00</published>
+    <updated>2017-05-18T05:06:37-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -106,8 +122,8 @@
     <title>Seidenstrasse</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/seidenstrasse/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/05/seidenstrasse/index.html</id>
-    <published>2017-05-02T09:00:00+09:00</published>
-    <updated>2017-05-09T17:32:53+09:00</updated>
+    <published>2017-05-01T17:00:00-07:00</published>
+    <updated>2017-05-09T01:32:53-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -122,8 +138,8 @@
     <title>Gegensätze</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/04/gegensaetze/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/04/gegensaetze/index.html</id>
-    <published>2017-04-28T09:00:00+09:00</published>
-    <updated>2017-05-08T17:30:11+09:00</updated>
+    <published>2017-04-27T17:00:00-07:00</published>
+    <updated>2017-05-08T01:30:11-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -140,8 +156,8 @@
     <title>Begegnungen im Iran</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/04/begnungen-im-iran/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/04/begnungen-im-iran/index.html</id>
-    <published>2017-04-22T09:00:00+09:00</published>
-    <updated>2017-04-30T00:16:15+09:00</updated>
+    <published>2017-04-21T17:00:00-07:00</published>
+    <updated>2017-04-29T08:16:15-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -162,8 +178,8 @@
     <title>Wüstensöhne</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/04/wuestensoehne/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/04/wuestensoehne/index.html</id>
-    <published>2017-04-20T09:00:00+09:00</published>
-    <updated>2017-04-30T00:03:28+09:00</updated>
+    <published>2017-04-19T17:00:00-07:00</published>
+    <updated>2017-04-29T08:03:28-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -179,8 +195,8 @@ Zum perfekten Wüstenerlebnis fehlten uns nur noch die Kamele - und sie haben un
     <title>Übergänge</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/04/uebergaenge/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/04/uebergaenge/index.html</id>
-    <published>2017-04-13T09:00:00+09:00</published>
-    <updated>2017-04-16T00:44:17+09:00</updated>
+    <published>2017-04-12T17:00:00-07:00</published>
+    <updated>2017-04-15T08:44:17-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -195,26 +211,6 @@ Zum perfekten Wüstenerlebnis fehlten uns nur noch die Kamele - und sie haben un
 &lt;p&gt;Der Grenzübergang zwischen Georgien und Armenien wartet auf 2'200 M.ü.M. Und wir warten frierend im Schneesturm auf unsere Stempel und Versicherungen. Eine sehr unwirtliche Gegend, offroad-feeling on the road, und der erste Sturz auf Eis. Günters linke Töffkiste abgebrochen, der Rücken von der Buckelpiste für die nächsten Tage lädiert… (aufrecht stehen geht nicht mehr, muss man auf der GS im Moment aber auch noch nicht). Am darauf folgenden Morgen werden diverse kleinere Reparaturen an den Motorrädern vorgenommen und die Rückenschmerzen mit Ibuprufen 600 ignoriert.&lt;/p&gt;
 
 &lt;p&gt;Bereits am Mittag trinken wir bei T-Shirt-Wetter in Eriwan, der modernen Hauptstadt Armeniens, Cappuccino und staunen über die krassen klimatischen und kulturellen Gegensätze, die wir innerhalb weniger Stunden erleben. Bei sonnigem Wetter geniessen wir traumhaft schöne Landschaften in den Hochebenen Armeniens. Der einzige Wermutstropfen ist das Fotoshooting mit der armenischen Polizei - dieses Mal kostet das Foto 30 Dollar…&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Weisse Überraschung</title>
-    <link rel="alternate" href="https://vonderwelt.ch/blog/2017/04/weisse-ueberraschung/index.html"/>
-    <id>https://vonderwelt.ch/blog/2017/04/weisse-ueberraschung/index.html</id>
-    <published>2017-04-09T09:00:00+09:00</published>
-    <updated>2017-04-11T04:41:14+09:00</updated>
-    <author>
-      <name>Janosch</name>
-    </author>
-    <content type="html">&lt;p&gt;Für unser erstes Zeltlager nach dem gediegenen Hotel in Göreme ziehen wir uns vor der Zivilisation in die Hügel zurück (1'450 M.ü.M.). Mit einer heissen Tomatensuppe können wir noch rechtzeitig unsere Bäuche wärmen. Die Steaks baden dann bereits im Regenwasser, sodass wir uns bald mit allem, was wir an Wärmendem haben, ins trockene Zelt verkriechen (Danke Müetti und Ines für die gestrickten Socken).&lt;/p&gt;
-
-&lt;p&gt;Janosch in der Nacht: "Was sind das für komische Geräusche, wie wenn etwas rutschen würde". Am Morgen dann die winterliche Überraschung: Schneedecke und eisige Temperaturen. Zelt ausgraben (ja Marco, das ist jetzt etwas übertrieben), Zündschlösser enteisen, Çai kochen, Motorräder aus der matschigen Wiese spulen und stossen und weiter gehts, ins hoffentlich wärmere Tal. Weit gefehlt. Es erwarten uns 300km bei Minustemperaturen und Scheetreiben, mehrere Pässe bis zu 2'160 M.ü.M., gefrorene Hände und Füsse, klappernde Zähne. Es ist so garstig, dass sogar die Polizei drinnen bleibt und ihre Pappkameraden nach draussen schickt.&lt;/p&gt;
-
-&lt;p&gt;Vor dem Eindunkeln fahren wir ein letztes Mal in die kalten Berge, zum Kloster Süleman, das hoch in den Felsen hängt.&lt;/p&gt;
-
-&lt;p&gt;Am Abend spendiert Papa, auf gefühlte 10 Grad Körpertemperatur heruntergekühlt, ein Hotelzimmer, welches wir kurzerhand zum Geschirrspülen, Kleiderwaschen und Zelttrocknen zweckentfremden.&lt;/p&gt;
-
-&lt;p&gt;Es stimmt übrigens, wovor uns jemand gewarnt hatte. Auf jedem zweiten türkischen Bauernhof gibt es Hunde, die so gross wie Kälber sind (nein Marco, das ist nicht übertrieben). Nur etwas weniger friedfertig. Wir sind froh über unsere massiven Töffstiefel, die unsere Knöchel und Waden schützen und sicher werdet Ihr uns verzeihen, dass wir es unterlassen haben, die Viecher zu fotografieren, die jeweils zähnefletschend hinter uns her rannten.&lt;/p&gt;
 </content>
   </entry>
 </feed>
