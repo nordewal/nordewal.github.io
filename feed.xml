@@ -4,16 +4,34 @@
   <id>https://vonderwelt.ch/</id>
   <link href="https://vonderwelt.ch/"/>
   <link href="https://vonderwelt.ch/feed.xml" rel="self"/>
-  <updated>2017-07-01T16:00:00-08:00</updated>
+  <updated>2017-07-14T17:00:00-07:00</updated>
   <author>
     <name>Janosch</name>
   </author>
   <entry>
+    <title>Küstenwetter</title>
+    <link rel="alternate" href="https://vonderwelt.ch/blog/2017/07/kuestenwetter/index.html"/>
+    <id>https://vonderwelt.ch/blog/2017/07/kuestenwetter/index.html</id>
+    <published>2017-07-14T17:00:00-07:00</published>
+    <updated>2017-07-29T22:23:23-07:00</updated>
+    <author>
+      <name>Janosch</name>
+    </author>
+    <content type="html">&lt;p&gt;Zwei Wochen nachdem das Motorrad in Vladivostok verpackt wurde, bin ich zurück auf der Strasse und fahre Richtung Alaska. Dabei folge ich zuerst dem Trans-Canadian Adventure Trail (TCAT), der zum Ziel hat so wenig wie möglich Teer unter den Rädern zu haben. Dank diesem entdecke ich wunderschöne abgelegene Orte und tolle Strassen/Wege.&lt;/p&gt;
+
+&lt;p&gt;Im Süden von B.C. (British Columbia), ist das Wetter extrem heiss und trocken, sodass überall Waldbrände ausbrechen, teilweise Strassen gesperrt sind und zehntausende Menschen evakuiert werden. Alsbald ich wieder in die Nähe der Küste komme, wird das Wetter unberechenbar und vorallem für lange Zeit regnerisch. So entscheide ich mich zwei Mal in ein Hotel zu gehen, um die Sachen zu trocknen und mir eine bequeme Nacht zu gönnen. Das schlimmste ist, die nassen Motorradkleider vom Vortag, nach einer regnerischen Nacht im Zelt, wieder feucht anziehen zu müssen.&lt;/p&gt;
+
+&lt;p&gt;Unerwarteterweise werde ich zweimal in Alaska einreisen; einmal davon ganz im Süden, in Hyder, das nur via Kanada ans Strassennetz angebunden ist. So gibt es keinen US Zoll, und der Pass muss nur bei der Wiedereinreise nach Kanada gezeigt werden. Der Abstecher ist dank dem Salmon Gletscher, dem Gletschersee und den Minen sehr lohnenswert. Ende Juli kann in Hyder sogar den Bären beim Lachs-Fischen von einer Plattform aus zugesehen werden, was ich leider knapp verpasse. Trotzdem habe ich unterwegs bereits 5 Bären, 2 Elche, Füchse, Eichhörnchen und viele andere Tiere gesehen :-)&lt;/p&gt;
+
+&lt;p&gt;Die restliche Route über den Cassiar und den Alaska Highway ziehen sich nicht zuletzt wegen dem Regen sehr in die Länge, wenngleich die Landschaften prächtig sind. An einem regenfreien Tag mache ich mich auf eine wunderschöne Wanderung im Kluane Nationalpark, wo dank dem Regen die Pfade teilweise zu Bächen wurden. Am Schluss sind die Schuhe dermassen durchtränkt, dass ich einfach durchs Wasser wate.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Das grosse Wiedersehen</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/07/das-grosse-wiedersehen/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/07/das-grosse-wiedersehen/index.html</id>
-    <published>2017-07-01T16:00:00-08:00</published>
-    <updated>2017-07-24T17:01:20-08:00</updated>
+    <published>2017-07-01T17:00:00-07:00</published>
+    <updated>2017-07-24T18:01:20-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -30,8 +48,8 @@
     <title>Stadt der Liebe</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/06/stadt-der-liebe/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/06/stadt-der-liebe/index.html</id>
-    <published>2017-06-28T16:00:00-08:00</published>
-    <updated>2017-07-08T08:03:44-08:00</updated>
+    <published>2017-06-28T17:00:00-07:00</published>
+    <updated>2017-07-08T09:03:44-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -46,8 +64,8 @@
     <title>Seoul</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/06/seoul/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/06/seoul/index.html</id>
-    <published>2017-06-19T16:00:00-08:00</published>
-    <updated>2017-07-06T14:31:38-08:00</updated>
+    <published>2017-06-19T17:00:00-07:00</published>
+    <updated>2017-07-06T15:31:38-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -62,8 +80,8 @@
     <title>Am Ende Asiens</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/06/am-ende-asiens/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/06/am-ende-asiens/index.html</id>
-    <published>2017-06-14T16:00:00-08:00</published>
-    <updated>2017-06-19T17:46:30-08:00</updated>
+    <published>2017-06-14T17:00:00-07:00</published>
+    <updated>2017-06-19T18:46:30-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -78,8 +96,8 @@
     <title>In den Wäldern Sibiriens</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/06/in-den-waeldern-sibieriens/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/06/in-den-waeldern-sibieriens/index.html</id>
-    <published>2017-06-09T16:00:00-08:00</published>
-    <updated>2017-06-19T17:05:09-08:00</updated>
+    <published>2017-06-09T17:00:00-07:00</published>
+    <updated>2017-06-19T18:05:09-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -96,8 +114,8 @@
     <title>Mongolei - am Ziel der gemeinsamen Reise</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/mongolei-am-ziel-der-gemeinsamen-reise/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/05/mongolei-am-ziel-der-gemeinsamen-reise/index.html</id>
-    <published>2017-05-24T16:00:00-08:00</published>
-    <updated>2017-05-29T00:08:24-08:00</updated>
+    <published>2017-05-24T17:00:00-07:00</published>
+    <updated>2017-05-29T01:08:24-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -114,8 +132,8 @@
     <title>Altai-Gebirge</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/altai-gebirge/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/05/altai-gebirge/index.html</id>
-    <published>2017-05-19T16:00:00-08:00</published>
-    <updated>2017-05-28T19:28:21-08:00</updated>
+    <published>2017-05-19T17:00:00-07:00</published>
+    <updated>2017-05-28T20:28:21-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -132,8 +150,8 @@
     <title>Heimatgefühle</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/heimatgefuehle/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/05/heimatgefuehle/index.html</id>
-    <published>2017-05-12T16:00:00-08:00</published>
-    <updated>2017-05-18T04:06:37-08:00</updated>
+    <published>2017-05-12T17:00:00-07:00</published>
+    <updated>2017-05-18T05:06:37-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -156,8 +174,8 @@
     <title>Seidenstrasse</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/seidenstrasse/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/05/seidenstrasse/index.html</id>
-    <published>2017-05-01T16:00:00-08:00</published>
-    <updated>2017-05-09T00:32:53-08:00</updated>
+    <published>2017-05-01T17:00:00-07:00</published>
+    <updated>2017-05-09T01:32:53-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -172,8 +190,8 @@
     <title>Gegensätze</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/04/gegensaetze/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/04/gegensaetze/index.html</id>
-    <published>2017-04-27T16:00:00-08:00</published>
-    <updated>2017-05-08T00:30:11-08:00</updated>
+    <published>2017-04-27T17:00:00-07:00</published>
+    <updated>2017-05-08T01:30:11-07:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -184,28 +202,6 @@
 &lt;p&gt;Das lange Warten hat uns nicht nur die Gelegenheit gegeben, uns von den anstrengenden Töfffahrten zu erholen, sondern auch Zeit für Sehenswürdigkeiten in und um Baku herum: die wunderschöne Altstadt mit dem Jungfrauenturm, ein hinduistischer Feuertempel, Ölförderanlagen aus der Zeit der UdSSR, kleine Gasvulkane, die vor sich hin blubbern, prähistorische Wandmalereien. Und immer mal wieder eine lokale Spezialität auf den Teller. Wir sind von Sadj (Sadsch) begeistert, ein gut gewürztes und variantenreich angebotenes Fleisch-Gemüsegericht, das in einer Wok-ähnlichen Pfanne gebraten und serviert wird.&lt;/p&gt;
 
 &lt;p&gt;Die im Iran provisorisch geschweisste Felge wurde in Baku dank Alekseis grosser Unterstützung innerhalb eines Tages fachmännisch repariert und wir sind gerüstet für die kommenden Unebenheiten auf den Strassen von Kasachstan und Usbekistan.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Begegnungen im Iran</title>
-    <link rel="alternate" href="https://vonderwelt.ch/blog/2017/04/begnungen-im-iran/index.html"/>
-    <id>https://vonderwelt.ch/blog/2017/04/begnungen-im-iran/index.html</id>
-    <published>2017-04-21T16:00:00-08:00</published>
-    <updated>2017-04-29T07:16:15-08:00</updated>
-    <author>
-      <name>Janosch</name>
-    </author>
-    <content type="html">&lt;p&gt;An der Grenze zum Iran begegnen wir dem ersten Motorradfahrer, der auch auf Reisen ist. Paul van Hooff, ein schreibender Holländer, der mit seiner Moto Guzzi im November (!) losgefahren ist, um die Welt zu erleben und zu erleiden ("ich muss leiden, weil die Leser etwas Besonderes wollen" - &lt;a href="http://guzzigalore.nl"&gt;guzzigalore.nl&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Im Iran treffen wir auf unglaublich liebevolle, offene und hilfsbereite Menschen. Kaum machen wir irgendwo Halt, kommen die Iraner auf uns zu, erkundigen sich nach unserer Herkunft und unseren Plänen, wollen mit uns und unseren Motorrädern Fotos schiessen und laden uns zum Tee, zum Essen oder gleich zum Übernachten ein. So sind wir zum Beispiel zu Gast bei der Familie eines Kriegsveteranen aus dem Golfkrieg; ein Tankstellenwart erbarmt sich unser nach nasser kalter Fahrt und organisiert Gasheizung, Decken und Tee; der Chefmechaniker lädt uns nach getaner Reparatur an der Felge zum Übernachten zu seiner Familie ein; und viele Frauen wirken fliessig im Hintergrund, wenn uns ihre Männer Gastfreundschaft anbieten. In konservativen Familien dürfen wir den Frauen nicht die Hand reichen, sie nicht ansprechen, sie dürfen nicht mit aufs Familienfoto und sie essen auch nicht mit uns - Gleichberechtigung ist kein Thema. Einen Ruhetag verbringen wir im Sommerhaus von Saeed. Er zeigt uns die Umgebung, organisiert eine Spezialführung durch eine heilige muslimische Stätte und stellt uns seine einflussreichen Cousins und Freunde vor. Zum Frühstück geniessen wir Schafskopf, eine iranische Spezialität, und noch etwas mehr geniessen wir am Nachmittag die im Garten grillierten Kebab-Spiesse.&lt;/p&gt;
-
-&lt;p&gt;Es sind aber auch viele kleine Begegnungen, die uns beeindrucken: Hirten, die wir unterwegs treffen, Buben, die in Flipflops auf ihren Töffs herumcrossen und Wheelies machen (Fahren auf dem Hinterrad), die netten Verkäuferinnen und Händler, die sich über ein Kompliment freuen, neugierige Blicke und verschmitztes Lachen auf der Strasse, eine Umarmung hier und dort. Und verlegenes Lächeln beidseits, weil es mit der Sprache meist nicht wirklich gut klappt.&lt;/p&gt;
-
-&lt;p&gt;Am Nachmittag des 21. April, bereits weit im Osten des Iran, erhalten wir das defintive Nein für das turkmenische Visum. Das bedeutet einen langen Weg zurück, in die aserbaidschanische Hautstadt Baku, um von dort aus die Fähre über das kaspische Meer nach Aktau in Kasachstan zu nehmen. Zudem gibt es in Baku eine BMW-Garage, die uns mit der defekten Felge weiterhelfen soll. Um die Garage noch vor dem Wochenende zu erreichen, entschliessen wir uns zu einer Nachtschicht und fahren von Freitag bis Samstag Nachmittag durch - in 24 Stunden über 1'200 km Küstenstrasse, 3 Powernaps, 3 mal tanken, 10'000 verkehrsberuhigende aber nervenaufreibende Bumps.&lt;/p&gt;
-
-&lt;p&gt;Mit einem reich gefüllten Rucksack an schönen Begegnungen und mit einigen neuen Freunden, die uns in der Schweiz besuchen wollen, überqueren wir die Grenze zu Aserbaidschan. Am Zoll werden wir dann wieder daran erinnert, dass es nicht nur Freundschaften gibt: der Grenzbeamte verlangt, dass wir die Visitenkarte eines armenischen Hotels, die er bei der Gepäckkontrolle gefunden hat, vor seinen Augen zerreissen, damit wir einreisen dürfen (Aserbaidschan und Armenien liegen sich um den Berg Karabach seit Jahren in den Haaren).&lt;/p&gt;
-
-&lt;p&gt;Schon bald haben wir 10'000 unfallfeie (nicht umfallfreie) Kilometer hinter uns, was sicherlich den vielen Glücksbringern zu verdanken ist, die wir vor und während der Reise erhalten haben, dem mitgegebenen Weihwasser, dem Segen unter tibetischen Fahnen und den vielen Glückwünschen und positiven Gedanken. Herzlichen Dank Euch allen!&lt;/p&gt;
 </content>
   </entry>
 </feed>
