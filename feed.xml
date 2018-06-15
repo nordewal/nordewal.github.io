@@ -4,7 +4,7 @@
   <id>https://vonderwelt.ch/</id>
   <link href="https://vonderwelt.ch/"/>
   <link href="https://vonderwelt.ch/feed.xml" rel="self"/>
-  <updated>2017-07-27T20:00:00-04:00</updated>
+  <updated>2017-07-28T02:00:00+02:00</updated>
   <author>
     <name>Janosch</name>
   </author>
@@ -12,8 +12,8 @@
     <title>Polarkreis</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/07/polarkreis/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/07/polarkreis/index.html</id>
-    <published>2017-07-27T20:00:00-04:00</published>
-    <updated>2017-09-05T14:43:28-04:00</updated>
+    <published>2017-07-28T02:00:00+02:00</published>
+    <updated>2017-09-05T20:43:28+02:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -28,8 +28,8 @@
     <title>Gletscherwelten</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/07/gletscherwelten/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/07/gletscherwelten/index.html</id>
-    <published>2017-07-21T20:00:00-04:00</published>
-    <updated>2017-09-04T13:16:05-04:00</updated>
+    <published>2017-07-22T02:00:00+02:00</published>
+    <updated>2017-09-04T19:16:05+02:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -46,8 +46,8 @@
     <title>Küstenwetter</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/07/kuestenwetter/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/07/kuestenwetter/index.html</id>
-    <published>2017-07-14T20:00:00-04:00</published>
-    <updated>2017-07-30T01:23:23-04:00</updated>
+    <published>2017-07-15T02:00:00+02:00</published>
+    <updated>2017-07-30T07:23:23+02:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -64,8 +64,8 @@
     <title>Das grosse Wiedersehen</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/07/das-grosse-wiedersehen/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/07/das-grosse-wiedersehen/index.html</id>
-    <published>2017-07-01T20:00:00-04:00</published>
-    <updated>2017-07-24T21:01:20-04:00</updated>
+    <published>2017-07-02T02:00:00+02:00</published>
+    <updated>2017-07-25T03:01:20+02:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -79,11 +79,27 @@
 </content>
   </entry>
   <entry>
+    <title>Stadt der Liebe</title>
+    <link rel="alternate" href="https://vonderwelt.ch/blog/2017/06/stadt-der-liebe/index.html"/>
+    <id>https://vonderwelt.ch/blog/2017/06/stadt-der-liebe/index.html</id>
+    <published>2017-06-29T02:00:00+02:00</published>
+    <updated>2018-06-15T22:54:15+02:00</updated>
+    <author>
+      <name>Janosch</name>
+    </author>
+    <content type="html">&lt;p&gt;Anstatt wie das Motorrad den direkten Weg nach Vancouver zu nehmen fliege ich über Paris. Als Spontanbucher kurz vor Abflug bin ich wahrscheinlich ein Lückenfüller und fliege daher erstaunlich günstig. Der sehr kurze Stopp in Istanbul reicht zwar zum Umsteigen für mich, das Gepäck jedoch schaffts leider erst 4 Tage später nach Paris.&lt;/p&gt;
+
+&lt;p&gt;Ich freue mich riesig Mélanie endlich wieder zu sehen! Nach 3 Monaten fühlt es sich am Anfang speziell an und es ist wie jemanden Fremden in den Armen zu halten. Wir verbringen sehr viele schöne Momente, finden wieder super zueinander, freuen uns auf die gemeinsame Reise in Südamerika und können uns kaum mehr trennen.&lt;/p&gt;
+
+&lt;p&gt;Mélanie lernt wochentags vorbildlich für das bevorstehende Staatsexamen, währenddessen ich meine weitere Reise plane. Am Wochenende und jeweils nach dem Büffeln besichtigen wir Paris häufig mit dem Fahrrad und sind froh beim 3ten Mal in der Stadt nicht mehr alle Sehenswürdigkeiten abklappern zu müssen. Dabei entdecken wir das Quartierleben, wandern durch grüne Hügel abseits der Stadt und essen gemütlich an der Seine. Zum Schluss kommen Katja und Vera extra wegen mir für eine Nacht nach Paris, was mich extrem freut; wir schlemmern im Restaurant "Au Petit Riche" und haben uns viel zu erzählen.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Seoul</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/06/seoul/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/06/seoul/index.html</id>
-    <published>2017-06-19T20:00:00-04:00</published>
-    <updated>2017-07-06T18:31:38-04:00</updated>
+    <published>2017-06-20T02:00:00+02:00</published>
+    <updated>2017-07-07T00:31:38+02:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -98,8 +114,8 @@
     <title>Am Ende Asiens</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/06/am-ende-asiens/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/06/am-ende-asiens/index.html</id>
-    <published>2017-06-14T20:00:00-04:00</published>
-    <updated>2017-06-19T21:46:30-04:00</updated>
+    <published>2017-06-15T02:00:00+02:00</published>
+    <updated>2017-06-20T03:46:30+02:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -114,8 +130,8 @@
     <title>In den Wäldern Sibiriens</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/06/in-den-waeldern-sibieriens/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/06/in-den-waeldern-sibieriens/index.html</id>
-    <published>2017-06-09T20:00:00-04:00</published>
-    <updated>2017-06-19T21:05:09-04:00</updated>
+    <published>2017-06-10T02:00:00+02:00</published>
+    <updated>2017-06-20T03:05:09+02:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -132,8 +148,8 @@
     <title>Mongolei - am Ziel der gemeinsamen Reise</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/mongolei-am-ziel-der-gemeinsamen-reise/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/05/mongolei-am-ziel-der-gemeinsamen-reise/index.html</id>
-    <published>2017-05-24T20:00:00-04:00</published>
-    <updated>2017-05-29T04:08:24-04:00</updated>
+    <published>2017-05-25T02:00:00+02:00</published>
+    <updated>2017-05-29T10:08:24+02:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -150,8 +166,8 @@
     <title>Altai-Gebirge</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/altai-gebirge/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/05/altai-gebirge/index.html</id>
-    <published>2017-05-19T20:00:00-04:00</published>
-    <updated>2017-05-28T23:28:21-04:00</updated>
+    <published>2017-05-20T02:00:00+02:00</published>
+    <updated>2017-05-29T05:28:21+02:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -168,8 +184,8 @@
     <title>Heimatgefühle</title>
     <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/heimatgefuehle/index.html"/>
     <id>https://vonderwelt.ch/blog/2017/05/heimatgefuehle/index.html</id>
-    <published>2017-05-12T20:00:00-04:00</published>
-    <updated>2017-05-18T08:06:37-04:00</updated>
+    <published>2017-05-13T02:00:00+02:00</published>
+    <updated>2017-05-18T14:06:37+02:00</updated>
     <author>
       <name>Janosch</name>
     </author>
@@ -186,22 +202,6 @@
 &lt;p&gt;Aber es ist in Kasachstan natürlich nicht alles wie in der Schweiz: Kasachstan ist ein Bisschen grösser ;-) ehrlich gesagt, rund 66 mal) die Löcher sind nicht im Käse, sondern in den Strassen (im Internet werden gewisse Strassenabschnitte auch als 'bombed out' bezeichnet) und in der BMW-Garage gab es 30% Rabatt!&lt;/p&gt;
 
 &lt;p&gt;Nun freuen wir uns auf Russland. Durch das Altai-Gebirge soll eine der schönsten Bergstrassen der Welt führen - ein Traum für Biker, sagt man. Wir werden sehen.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Seidenstrasse</title>
-    <link rel="alternate" href="https://vonderwelt.ch/blog/2017/05/seidenstrasse/index.html"/>
-    <id>https://vonderwelt.ch/blog/2017/05/seidenstrasse/index.html</id>
-    <published>2017-05-01T20:00:00-04:00</published>
-    <updated>2017-05-09T04:32:53-04:00</updated>
-    <author>
-      <name>Janosch</name>
-    </author>
-    <content type="html">&lt;p&gt;Nach der Überquerung des kaspischen Meeres gehen wir in Aktau/Kasachstan an Land. Nachts um 2 Uhr haben wir nach rund 4 Stunden den Zoll geschafft und die vielen Formalitäten zu später Stunde haben uns geschafft.&lt;/p&gt;
-
-&lt;p&gt;Nach dem Ausschlafen fahren wir Richtung Usbekistan, durch weite Steppenlandschaften mit unzähligen Kamelen und Pferden. Die Kamele erinnern daran, dass hier eine der Hauptachsen der Seidenstrasse durchführt. Hier haben Karawanen während Jahrhunderten Seide und andere Güter von China nach Europa transportiert. Die Strassen sind allerdings alles andere als seiden, über weite Strecken katastrophal und nur mit grosser Konzentration und Anstrengung befahrbar.&lt;/p&gt;
-
-&lt;p&gt;In zwei Tagen durchqueren wir den wilden Westen Usbekistans, sind von der  Schönheit des Landes und seiner BewohnerInnen angetan. Die Usbeken praktizieren mehrheitlich einen gemässigten Islam und die Frauen scheinen deutlich selbstbestimmter als in anderen islamischen Ländern, die wir besucht haben. Touristen gibt es hier im Westen noch kaum. Das ändert sich aber schlagartig, als wir in die berühmten Städte Buchara und Samarkand fahren. Hier wimmelt es von Touristen aus aller Welt und wie früher dominiert auch heute das Geschäft die Beziehungen zwischen Einheimischen und Fremden. Wir tauchen ein in den orientalischen Zauber und sind überwältigt von den monumentalen, kunstvoll verzierten islamischen Bauten - Perlen der Seidenstrasse!&lt;/p&gt;
 </content>
   </entry>
 </feed>
